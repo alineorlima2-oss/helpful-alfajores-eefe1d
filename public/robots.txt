@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /?page=profile
+Disallow: /?page=pets
+Disallow: /?page=agenda
+Disallow: /?page=favorites
+Disallow: /?page=admin
+Disallow: /?page=supplier
